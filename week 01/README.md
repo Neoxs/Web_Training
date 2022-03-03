@@ -2,6 +2,8 @@
 
 This week, We did a small introduction to web development in general; therefore, we tried to understand the different aspects and career paths by discussing roadmaps, Client-Server architecture, HTTP, DNS, domain names, and hosting.
 
+Link to slides: [HERE](https://www.canva.com/design/DAEzdufoyvs/NUCWnGTN9TwU2mi7GcEsnw/view?utm_content=DAEzdufoyvs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 ## Resources
 
 Here is some of the useful links to understand the topic more:
