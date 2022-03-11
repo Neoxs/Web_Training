@@ -8,9 +8,7 @@ Link to slides: [HERE](https://www.canva.com/design/DAE6YIyT4wY/k1ZRfDLEN8c5PtqJ
 
 Here is some of the useful links to understand the topic more:
 
-- [Frontend Developemnt explained in 2 mins](https://www.youtube.com/watch?v=qyHyFsT7Hig) **Recommended**
-- [Backend Developemnt explained in 2 mins](https://www.youtube.com/watch?v=cbSrsYiRamo) **Recommended**
-- [How the web works](https://www.youtube.com/watch?v=hJHvdBlSxug) **Recommended**
-- [HTTP Crash course](https://www.youtube.com/watch?v=iYM2zFP3Zn0) **Optional**
-- [Roadmap.sh](https://roadmap.sh/) **Optional**
-- [The Benefits Of Becoming a Web Developer](https://www.youtube.com/watch?v=JguKLogoGMk) **Optional**
+- [W3SCHOOLS HTML tutorial](https://www.w3schools.com/html/default.asp) **Recommended**
+- [W3SCHOOLS CSS tutorial](https://www.w3schools.com/css/default.asp) **Recommended**
+- [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) **Recommended**
+- [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE) **Optional**
