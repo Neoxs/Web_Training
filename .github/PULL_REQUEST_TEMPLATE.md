@@ -4,9 +4,6 @@ This pull request template helps you complete the submition of the challenges to
 
 ## Checklist 👀
 
-- [ ] My code follows the style guidelines of this project 💅
-- [ ] I have performed a self-review of my own code 🕵️‍♀️
-- [ ] I have commented my code, particularly in hard-to-understand areas 💡
-- [ ] My changes generate no new warnings 🚨
-- [ ] I have performed npm run format before doing this pull request 🎨
-- [ ] I pulled the latest changes and fixed any merge conflicts ✅
+- [ ] I have read the instructions on the README file before submitting my answer.
+- [ ] I made my submission by creating a folder on the `_data` folder and followed the naming convention mentioned in the instructions (`<username>`) and html file.
+- [ ] I have shared my progress on the discord channel
