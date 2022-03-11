@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web training challenge</title>
+    <link rel="icon" href="./favicon-32x32.png" sizes="32x32">
+    <meta name="keywords" content="HTML, CSS, web training, alphabit club">
+    <meta name="description" content="Second week challenge">
+    <meta name="author" content="Yacine Kharoubi">
+    <!-- importing the main front from google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- importing fonts from fontawesome library -->
+    <script
+      src="https://kit.fontawesome.com/ed13d97ca1.js"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- main style -->
+    <style>
+      /* BASE STYLE */
+      body {
+        min-height: 90vh;
+        padding: 24px;
+        background-color: #0d1117;
+        font-family: 'Roboto';
+        color: #c9d1d9;
+      }
+
+      /* MAIN CONTAINER */
+      .readme {
+        border: 1px solid #30363d;
+        border-radius: 6px;
+      }
+
+      /* HEADER STYLE */
+      .readme__header {
+        padding: 16px 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 1px solid #30363d;
+      }
+      .readme__title {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        font-size: 14px;
+        gap: 15px;
+      }
+
+      /* BODY STYLE */
+      .readme__body {
+        padding: 1.4em 6em;
+      }
+      .readme__article h1 {
+        margin: 0;
+        padding-bottom: 0.3em;
+        font-size: 2em;
+        font-weight: 500;
+        border-bottom: 1px solid #30363d;
+      }
+      .readme__article p {
+        line-height: 1.5em;
+      }
+      .readme__article a {
+        color: #58a6ff;
+        text-decoration: none;
+      }
+      .readme__article a:hover {
+        text-decoration: underline;
+      }
+      .readme__article h2 {
+        padding-bottom: 0.3em;
+        font-size: 1.5em;
+        font-weight: 500;
+        border-bottom: 1px solid #30363d;
+      }
+
+      .readme__article li + li {
+        margin-top: 0.5em;
+      }
+
+      /* FOOTER STYLE */
+      .footer {
+        text-align: center;
+        margin-top: 4em;
+      }
+      .footer i {
+        padding: 0 5px;
+        color: #c9d1d9;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="readme">
+      <div class="readme__header">
+        <div class="readme__title">
+          <i class="fa-solid fa-list"></i>
+          <span class="readme__title-txt">README.md</span>
+        </div>
+        <div class="readme__cta"><i class="fa-solid fa-pen"></i></div>
+      </div>
+      <div class="readme__body">
+        <article class="readme__article">
+          <h1>Summary</h1>
+          <p>
+            This week, We did a small introduction to web development in
+            general; therefore, we tried to understand the different aspects and
+            career paths by discussing roadmaps, Client-Server architecture,
+            HTTP, DNS, domain names, and hosting.
+          </p>
+          <p>
+            link to slides:
+            <a
+              href="https://www.canva.com/design/DAEzdufoyvs/NUCWnGTN9TwU2mi7GcEsnw/view?utm_content=DAEzdufoyvs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+              >HERE</a
+            >
+          </p>
+          <h2>Resources</h2>
+          <p>Here is some of the useful links to understand the topic more:</p>
+          <ul>
+            <li>
+              <a href="https://www.youtube.com/watch?v=qyHyFsT7Hig"
+                >Frontend Developemnt explained in 2 mins</a
+              >
+              <strong>Recommended</strong>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/watch?v=cbSrsYiRamo"
+                >Backend Developemnt explained in 2 mins</a
+              >
+              <strong>Recommended</strong>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/watch?v=hJHvdBlSxug"
+                >How the web works</a
+              >
+              <strong>Recommended</strong>
+            </li>
+            <li>
+              <a href="https://m.youtube.com/watch?v=iYM2zFP3Zn0"
+                >HTTP Crash course</a
+              >
+              <strong>Optional</strong>
+            </li>
+            <li>
+              <a href="https://roadmap.sh/">Roadmap.sh</a>
+              <strong>Optional</strong>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/watch?v=JguKLogoGMk"
+                >The Benefits Of Becoming a Web Developer</a
+              >
+              <strong>Optional</strong>
+            </li>
+          </ul>
+        </article>
+      </div>
+    </div>
+    <div class="footer">
+      <span
+        >Made with <i class="fa-solid fa-mug-saucer"></i> for
+        <a href="https://github.com/Neoxs/Web_Training"
+          ><i class="fa-brands fa-github"></i></a
+      ></span>
+    </div>
+  </body>
+</html>
